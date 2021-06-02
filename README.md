@@ -8,6 +8,10 @@ Adding more text to show other stuff here.
 
 ## Purpose
 
+adding purpose to life
+
+it's meaningless
+
 ## Deployment
 
 Sample website with plenty of files for demos
